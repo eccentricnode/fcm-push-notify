@@ -1,0 +1,7 @@
+{
+  "name": "fcm-push-notify",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
